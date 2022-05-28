@@ -8,6 +8,7 @@ django = "*"
 gunicorn = "*"
 python-decouple = "*"
 dj-database-url = "*"
+django-s3-folder-storage = "*"
 
 [dev-packages]
 flake8 = "*"
