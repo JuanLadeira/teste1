@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 django = "*"
 gunicorn = "*"
+python-decouple = "*"
+dj-database-url = "*"
 
 [dev-packages]
 flake8 = "*"
