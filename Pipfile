@@ -9,9 +9,9 @@ gunicorn = "*"
 python-decouple = "*"
 dj-database-url = "*"
 django-s3-folder-storage = "*"
-collectfast = "*"
-psycopg2 = "*"
 psycopg2-binary = "*"
+boto3 = "*"
+collectfast = "*"
 
 [dev-packages]
 flake8 = "*"
