@@ -1,0 +1,6 @@
+DEBUG=True
+SECRET_KEY='%y5fs0wb%7l#1(ldsvn3-qywddz9r5h1oys)bc-qrt=vgx5x30'
+ALLOWED_HOSTS=localhost, 127.0.0.1, https://djangofelipe3.herokuapp.com/
+AWS_ACCESS_KEY_ID=""
+AWS_SECRET_ACCESS_KEY=oyDL3UcpLUiiBI965aOgNajVLz5uDEV0bwZM5dce
+AWS_STORAGE_BUCKET_NAME=felipedjango
