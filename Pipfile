@@ -11,6 +11,8 @@ dj-database-url = "*"
 django-s3-folder-storage = "*"
 psycopg2-binary = "*"
 collectfast = "*"
+django-debug-toolbar = "*"
+sentry-sdk = "*"
 
 [dev-packages]
 flake8 = "*"
